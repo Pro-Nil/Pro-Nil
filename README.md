@@ -10,7 +10,7 @@
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Pro-Nil&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-Nil&theme=tokyonight" alt="mystreak"/>
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkuraDiary&theme=tokyonight&layout=compact)
+![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Nil&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
 
