@@ -12,7 +12,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-Nil&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Nil&theme=tokyonight&layout=compact)
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 I’m currently working on serveral projects - 
+ [‣] ZeusField Minecraft Server Ip - play.zeusfield.com
+ [‣] StudioBeam Development (This is where I list all my plugins) | Discord Server - https://discord.gg/g65kazuDaY
+ [‣] RawKnee Smp Ip - smp.rawknee.com 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
