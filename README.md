@@ -26,7 +26,7 @@
 📫 
 <p align="center">
     <a href="https://discord.com/users/477121580472729611" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/852617426591154177?idleMessage=Probably%20coding%20Absolet..." alt="Discord Presence" align="center">
+        <img src="https://lanyard-profile-readme.vercel.app/api/477121580472729611?idleMessage=Probably%20coding%20Absolet..." alt="Discord Presence" align="center">
     </a>
 </p>
 
