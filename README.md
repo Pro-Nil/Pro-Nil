@@ -24,7 +24,11 @@
 
 ## Contact me : 
 📫 
-![](https://dcbadge.vercel.app/api/shield/477121580472729611)
+<p align="center">
+    <a href="https://discord.com/users/477121580472729611" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/852617426591154177?idleMessage=Probably%20coding%20Absolet..." alt="Discord Presence" align="center">
+    </a>
+</p>
 
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
