@@ -14,11 +14,11 @@
 
 🌱 I’m currently working on serveral projects - 
 
+ [‣] StudioBeam Development (This is where I list all my plugins) | Discord Server - https://discord.gg/g65kazuDaY
+
  [‣] ZeusField Minecraft Server Ip - play.zeusfield.com [closed]
  
- [‣] StudioBeam Development (This is where I list all my plugins) | Discord Server - https://discord.gg/g65kazuDaY
- 
- [‣] RawKnee Smp Ip - smp.rawknee.com [partially closed]
+ [‣] RawKnee Smp Ip - smp.rawknee.com [closed]
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
