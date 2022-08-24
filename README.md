@@ -24,7 +24,7 @@
 
 ## Contact me : 
 📫 
-[![Discord](https://lanyard.cnrad.dev/api/259780560707256321?bg=0D1117)](https://discord.com/users/477121580472729611)
+[![Discord](https://lanyard.cnrad.dev/api/477121580472729611?bg=0D1117)](https://discord.com/users/477121580472729611)
 
 
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
