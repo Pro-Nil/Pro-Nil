@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-Nil&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Nil&theme=tokyonight&layout=compact)
 
-🌱#A little bit about me.
+###🌱A little bit about me.
 Hello, I'm Pro_Nil and I am a Programmer. I mostly code in Java and run several projects coded with it. My biggest project including Java at the moment probably is StudioBeam Development , a Minecraft Plugin Development team making everything affordable.
 
 I started coding at the start of the pandemic, 1 week later all of us were in lockdown. Now I had time. Much time. So I started learning Java and did this all day. And I don't regret it.
