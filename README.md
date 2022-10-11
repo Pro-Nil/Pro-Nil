@@ -12,13 +12,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pro-Nil&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro-Nil&theme=tokyonight&layout=compact)
 
-🌱 I’m currently working on serveral projects - 
+🌱#A little bit about me.
+Hello, I'm Pro_Nil and I am a Programmer. I mostly code in Java and run several projects coded with it. My biggest project including Java at the moment probably is StudioBeam Development , a Minecraft Plugin Development team making everything affordable.
 
- [‣] StudioBeam Development (This is where I list all my plugins) | Discord Server - https://discord.gg/g65kazuDaY
+I started coding at the start of the pandemic, 1 week later all of us were in lockdown. Now I had time. Much time. So I started learning Java and did this all day. And I don't regret it.
 
- [‣] ZeusField Minecraft Server Ip - play.zeusfield.com [closed]
- 
- [‣] RawKnee Smp Ip - smp.rawknee.com [closed]
+Volunteered for 15+ Minecraft Servers .
+Positive review from over 20+ clients !
+
+On my way I found many friendly people, some of which I'm still friended with to this date, some might left me or I left them, both ways possible. I'm normally quite busy with school and coding, but that's life.
+
+I currently am mostly active in the following Projects: StudioBeam Development and ...... . They are fun and I learnt a lot while working on them. Both include the game Minecraft.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
