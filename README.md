@@ -15,16 +15,15 @@
 
 ### 🌱A little bit about me.
 
-Hello, I'm Pro_Nil and I am a Programmer. I mostly code in Java and run several projects coded with it. My biggest project including Java at the moment probably is StudioBeam Development , a Minecraft Plugin Development team making everything affordable.
+Hello, I'm Pranil (you might also know me as Pro_Nil). I'm a self-taught engineer and creator with a deep passion for building things—from complex software and custom hardware to compelling visual stories.
 
-I started coding at the start of the pandemic, 1 week later all of us were in lockdown. Now I had time. Much time. So I started learning Java and did this all day. And I don't regret it.
+My journey into the tech world began during the pandemic, and what started as a curiosity for Java quickly grew into a full-time passion for solving real-world problems. This path led me to found StudioBeam Development, where I've had the privilege of architecting and shipping commercial software to over 150 paying customers and supporting a community of thousands with my open-source tools.
 
-Volunteered for 15+ Minecraft Servers .
-Positive review from over 20+ clients !
+While my core expertise is in backend engineering and cybersecurity, my curiosity doesn't stop at code. I've designed and created custom PCBs for hardware projects like a force-feedback steering wheel, produced detailed film treatments for my photography passion , and honed skills in graphic design.
 
-On my way I found many friendly people, some of which I'm still friended with to this date, some might left me or I left them, both ways possible. I'm normally quite busy with school and coding, but that's life.
+Recently, this drive to understand how systems work led me to discover and responsibly disclose a security vulnerability in a national government website, which was officially acknowledged by the Indian Computer Emergency Response Team (CERT-In).
 
-I currently am mostly active in the following Projects: StudioBeam Development and ...... . They are fun and I learnt a lot while working on them. Both include the game Minecraft.
+I'm always building and learning. 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
